@@ -1,0 +1,63 @@
+.basic {
+    text-align: center;
+}
+
+.g {
+    color : rgb(0,10,255);
+}
+
+img {
+    width : 2%;
+    height : 5%;
+}
+
+.mytext {
+    height : 70%;
+    width : 70%;
+    resize : none;
+    background-color: rgb(65, 65, 65);
+}
+
+.margin {
+    margin : 3%;
+}
+
+body{
+    background-color: rgb(34, 32, 32);
+}
+
+.code{
+    background-color: rgb(56, 56, 56);
+}
+
+.keyword{
+    color: rgb(0, 255, 200);
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    font-size: 13.3px;
+    top: 12.6%;
+    left: 25.27%;
+    z-index: 2;
+}
+
+textarea{
+    color: rgb(220,220,220);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    border-radius: 0;
+    background-color: transparent;
+}
+
+p{
+    color: rgb(220,220,220);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.inp{
+    z-index: 1;
+}
+
+h1{
+    color: rgb(140, 150, 150);
+}
